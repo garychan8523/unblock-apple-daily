@@ -1,7 +1,7 @@
 {
-  "name": "Getting Started Example",
+  "name": "unblock apple daily",
   "version": "1.0",
-  "description": "Build an Extension!",
+  "description": "unblock apple daily!",
   "permissions": [
     "activeTab",
     "declarativeContent",

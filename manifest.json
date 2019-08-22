@@ -17,7 +17,7 @@
   "content_scripts": [
     {
       "matches": [
-        "*://*.news.appledaily.com/*"
+        "*://*.appledaily.com/*"
       ],
       "js": [
         "jquery.min.js",
